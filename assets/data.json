@@ -1,0 +1,25 @@
+{
+  "pillars": [
+    {
+      "type": "Tronc céleste",
+      "hour": { "value": "丁 (Ding)", "icon": "assets/images/ding.png" },
+      "day": { "value": "丙 (Bing)", "icon": "assets/images/bing.png" },
+      "month": { "value": "乙 (Yi)", "icon": "assets/images/yi.png" },
+      "year": { "value": "甲 (Jia)", "icon": "assets/images/jia.png" }
+    },
+    {
+      "type": "Branche terrestre",
+      "hour": { "value": "卯 (Mao)", "icon": "assets/images/mao.png" },
+      "day": { "value": "寅 (Yin)", "icon": "assets/images/yin.png" },
+      "month": { "value": "丑 (Chou)", "icon": "assets/images/chou.png" },
+      "year": { "value": "子 (Zi)", "icon": "assets/images/zi.png" }
+    },
+    {
+      "type": "Élément associé",
+      "hour": { "value": "Métal", "icon": "assets/images/metal.png" },
+      "day": { "value": "Feu", "icon": "assets/images/fire.png" },
+      "month": { "value": "Terre", "icon": "assets/images/earth.png" },
+      "year": { "value": "Bois", "icon": "assets/images/wood.png" }
+    }
+  ]
+}
